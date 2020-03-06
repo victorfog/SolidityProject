@@ -1,0 +1,28 @@
+.header {
+    display: grid;
+    grid-template-columns: 150px 150px 150px 150px 1fr 80px;
+    grid-template-rows: 30px;
+    grid-gap: 20px;
+    padding: 10px;
+    background: lightgray;
+
+}
+.search button  {
+  background: aliceblue;
+  border-color: blue;
+    height: 25px;
+}
+.main{
+    display: grid;
+    grid-gap: 20px;
+
+}
+.center-img {
+    position: absolute;
+    padding: 10px;
+    background: black;
+}
+button{
+    border-radius: 10px;
+    border-color: blueviolet;
+}
