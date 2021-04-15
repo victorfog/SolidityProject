@@ -1,0 +1,14 @@
+.grid{
+    display: grid;
+}
+
+
+.area-check  {
+    outline: none;
+    grid-template-columns: repeat(4, 1em);
+    grid-gap: 5px;
+    padding: 30px 0;
+
+
+}
+
